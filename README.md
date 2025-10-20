@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nauf0201
-- 👀 I’m interested in python and scratch
+- 👀 I’m interested in python, C++, React
 - 🌱 I’m currently learning CSS and HTML
 - 📫 How to reach me at scratch [@Nauf0201](https://scratch.mit.edu/users/Nauf0201/)
 
